@@ -1,0 +1,7 @@
+venv/
+__pacache__/
+examples/
+pdfs/
+
+test.py
+testing_config.py
