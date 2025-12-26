@@ -30,8 +30,6 @@ main_title_style = ParagraphStyle(
 
 # Стили титульного листа
 
-pdfmetrics.registerFont(TTFont("DejaVu", "DejaVuSans.ttf"))
-font_name = 'DejaVu'
 # Выравнивание по центру, один шрифт
 front_page_base = ParagraphStyle(
     "front_page_base",
